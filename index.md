@@ -3,9 +3,10 @@ layout: page
 title: NISA - Resource Collection
 permalink: /
 ---
-
+###### check the links above ⬆️ for watch you are looking for
+> ##### could build a search function, future project?
 ## Code of Conduct
-> [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+[![Contributor Covenant(https://img.shields.io/badge/contributer%20covenant-v2.0-red)](https://img.shields.io/badge/contributer%20covenant-v2.0-red)
 
 ## help build a useful collection of links, make some additions and create a pull-request 
 
