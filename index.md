@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NISA - Resource Collection
-permalink: /
+permalink: /index/
 ---
 
 ## Code of Conduct
