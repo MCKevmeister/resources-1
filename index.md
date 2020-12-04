@@ -10,6 +10,6 @@ permalink: /
 
 ### help build a useful collection of links, make some additions and create a pull-request 
 
-> #### ```/sections/**.md``` contents should contain only links to official docs || official install docs 
+> #### ```/nameOfSection.md``` contents should contain only links to official docs || official install docs 
 
-> #### all non-official tutorials / guides should be added to ```/sections/tuts/```
+> #### all non-official tutorials / guides should be added to ```/tuts.md```
