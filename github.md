@@ -1,7 +1,7 @@
 ---
 layout: page
 title: github
-permalink: /github/
+permalink: /github
 ---
 
 ## Github Links

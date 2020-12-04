@@ -1,6 +1,6 @@
 ---
 layout: page
 title: jekyll
-permalink: /jekyll/
+permalink: /jekyll
 ---
 

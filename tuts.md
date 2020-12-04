@@ -1,7 +1,7 @@
 ---
 layout: page
 title: useful links
-permalink: /tuts/
+permalink: /tuts
 ---
 > ##### keep additions to this repo current, out of date tutorials should be removed annually
 

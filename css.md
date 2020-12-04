@@ -1,7 +1,7 @@
 ---
 layout: page
 title: css
-permalink: /css/
+permalink: /css
 ---
 
 ## Color 

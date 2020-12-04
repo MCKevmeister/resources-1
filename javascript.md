@@ -1,7 +1,7 @@
 ---
 layout: page
 title: javascript
-permalink: /javascript/
+permalink: /javascript
 ---
 
 ## Documentation

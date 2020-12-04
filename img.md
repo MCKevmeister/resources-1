@@ -1,7 +1,7 @@
 ---
 layout: page
 title: img
-permalink: /img/
+permalink: /img
 ---
 
 
