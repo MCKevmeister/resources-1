@@ -12,5 +12,5 @@ permalink: /javascript
 - [NextJs](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website)
 - [Svelte](https://svelte.dev/tutorial/basics)
 
-### TypeScript
+#### TypeScript
 - [TypeSCript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
