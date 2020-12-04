@@ -5,11 +5,11 @@ permalink: /img/
 ---
 
 
-### Photos
+## Photo
 - [Unsplash](https://unsplash.com/)
 - [Pexel](https://www.pexels.com/)
 
-### Graphics
+## Graphics
 - [Canva](https://www.canva.com/)
 - [Inkscape](https://inkscape.org/release/1.0/windows/)
 - [Figma](https://www.figma.com/)

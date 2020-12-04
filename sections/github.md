@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GITHUB
+title: github
 permalink: /github/
 ---
 

@@ -4,6 +4,5 @@ title: c#
 permalink: /cSharp/
 ---
 
-# C#
-### Documentation && Framework Documentation
+## C#
 - [Dotnet](https://docs.microsoft.com/en-us/dotnet/csharp/)
