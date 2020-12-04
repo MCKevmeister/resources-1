@@ -15,3 +15,4 @@ permalink: /tuts
 
 ## Cheat Sheets
 - [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Office Cheat Sheets](https://support.microsoft.com/en-us/office/office-cheat-sheets-61abfe7b-1c43-483c-b82b-3806d80e027e)
