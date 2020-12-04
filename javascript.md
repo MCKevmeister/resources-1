@@ -13,4 +13,4 @@ permalink: /javascript
 - [Svelte](https://svelte.dev/tutorial/basics)
 
 #### TypeScript
-- [TypeSCript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
